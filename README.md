@@ -8,5 +8,9 @@ Folder associated to machine-learning course  repository
 - Come usare Smart Git
 
 
+<<<<<<< HEAD
 
 hello world
+=======
+ciao
+>>>>>>> origin/main
