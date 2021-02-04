@@ -6,3 +6,6 @@ Folder associated to machine-learning course  repository
 
 
 - Come usare Smart Git
+
+
+ciao
